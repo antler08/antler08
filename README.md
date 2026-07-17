@@ -3,8 +3,9 @@
 
 # 🛡️ Cybersecurity:
 [![HTB Profile](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019e89d2-ccbc-7109-af61-2f2d5a718d34)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/f0xf4ce)
 
-- 🎯 Working towards CJCA and CPTS
+- 🎯 Working towards CJCA, CPTS, SAL1, PT1
 
 ---
 [![](https://komarev.com/ghpvc/?username=antler08&icon=0&color=0)](https://visitcount.itsvg.in)
