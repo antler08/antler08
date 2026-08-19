@@ -1,11 +1,50 @@
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![ParrotOS](https://img.shields.io/badge/Parrot%20OS-15CC9D?style=flat-square&logo=parrotsecurity&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-black?style=flat-square&logo=nmap&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white) ![Searchsploit](https://img.shields.io/badge/Searchsploit-black?style=flat-square&logo=exploit-db&logoColor=white)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1d1c,100:a85b32&height=190&section=header&text=f0xf4ce&fontSize=52&fontColor=f3efe3&fontAlignY=35&desc=mathematics%20%2B%20software%20%2B%20security&descAlignY=58&descSize=16" alt="f0xf4ce — mathematics, software, and security" />
+</div>
 
-# 🛡️ Cybersecurity:
-[![HTB Profile](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019e89d2-ccbc-7109-af61-2f2d5a718d34)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/f0xf4ce)
+<div align="center">
 
-- 🎯 Working towards CJCA, CPTS, SAL1, PT1
+# Hi, I’m Mark 👋
 
----
-[![](https://komarev.com/ghpvc/?username=antler08&icon=0&color=0)](https://visitcount.itsvg.in)
+### Math @ UPD
+
+<a href="https://www.linkedin.com/in/cuizonmarkjeremy"><img src="https://img.shields.io/badge/LinkedIn-Mark%20Jeremy%20Cuizon-4f7185?style=for-the-badge&logo=linkedin&logoColor=f3efe3" alt="LinkedIn" /></a>
+<a href="https://markcuizon.vercel.app"><img src="https://img.shields.io/badge/Portfolio-markcuizon.vercel.app-a85b32?style=for-the-badge&logo=vercel&logoColor=f3efe3" alt="Portfolio" /></a>
+
+<br />
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### ✦ I’m into
+
+- Automation and AI-assisted workflows
+- Software quality, systems, and security
+- Mathematics, statistics, algorithms, and problem-solving
+- Designing beautiful and functional UI/UX
+
+    </td>
+    <td width="50%" valign="top">
+
+### ✦ I’m learning
+
+- Better engineering habits
+- Practical application security
+- Testing and developer tooling
+- Turning mathematical ideas into working code
+
+    </td>
+  </tr>
+</table>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=f0xf4ce-gh&show_icons=true&hide_border=true&bg_color=00000000&title_color=a85b32&text_color=6f6b5e&icon_color=a85b32" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f0xf4ce-gh&layout=compact&hide_border=true&bg_color=00000000&title_color=a85b32&text_color=6f6b5e" alt="Top languages" />
+
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a85b32,100:1c1d1c&height=100&section=footer" alt="" />
+</div>
